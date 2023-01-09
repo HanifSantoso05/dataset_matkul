@@ -1,5 +1,4 @@
-"Seq.
-No.",Lot,Coil Number,Mother Coil,Grade,Finish,Thickness,Width,Material Processed,PRIME (SLT),KW2,BabyCoil,Scrap,SS,Weighing Balance
+"Seq.No.",Lot,Coil Number,Mother Coil,Grade,Finish,Thickness,Width,Material Processed,PRIME (SLT),KW2,BabyCoil,Scrap,SS,Weighing Balance
 1,422,LTI-GI306501A+B+C+D,LTI-GI306501,304L,2B,0.80,767,"9,950","9,890",0,60,0,0,0
 2,422,LTI-GI306396A+B+C,LTI-GI306396,304L,2B,0.95,768,"7,900","7,605",290,0,0,0,5
 4,421,TI-GI306141C+D,TI-GI306141,304,2B,0.80,770,"10,440","10,270",0,40,0,0,130
